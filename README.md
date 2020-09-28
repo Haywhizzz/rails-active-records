@@ -1,24 +1,47 @@
-# README
+# Active Records Model of Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was used to get our feets wet working on database model using Rails powerful ORM called Active Records.
+The data structures necessary to support link submissions and commenting on Reddit was the main focus of this project
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- Ruby
 
-* System dependencies
+# Getting Started
 
-* Configuration
+To get a local copy of the repository please run the following commands on your terminal:
 
-* Database creation
+```
+$ cd <folder>
+```
 
-* Database initialization
+~~~bash
+$ git clone https://github.com/mahmoud717/rails-active-records.git
+$ cd rails-active-records
+$ bundle install 
+$ yarn install --check-files
+~~~
 
-* How to run the test suite
+# Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Mahmoud Muhammad**
 
-* Deployment instructions
+- Github: [@mahmoud717](https://github.com/mahmoud717)
+- Twitter: [@mahmoud](https://twitter.com/mahmoud26369406)
 
-* ...
+
+👤 **Oyeleke Ayomide**
+
+- Github:[@Haywhizzz](https://github.com/Haywhizzz)
+- Twitter:[@Haywhizzz](https://twitter.com/Haywhizzz)
+- Linkedin:[@Haywhizzz](https://www.linkedin.com/in/oyeleke-ayomide)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!

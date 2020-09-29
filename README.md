@@ -17,10 +17,11 @@ $ cd <folder>
 ```
 
 ~~~bash
-$ git clone https://github.com/mahmoud717/rails-active-records.git
+$ git clone `https://github.com/mahmoud717/rails-active-records.git`
 $ cd rails-active-records
 $ bundle install 
 $ yarn install --check-files
+$ Run `rails db:migrate` to create necessary tables in database
 ~~~
 
 # Authors
